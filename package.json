@@ -25,29 +25,29 @@
     "src"
   ],
   "devDependencies": {
-    "autoprefixer": "^9.0.0",
-    "chai": "3.5.0",
-    "cypress": "^9.2.0",
-    "cz-conventional-changelog": "^2.1.0",
-    "deepmerge": "^2.0.1",
-    "eslint": "^5.0.1",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.11.0",
-    "http-server": "^0.11.1",
-    "mocha": "3.3.0",
-    "postcss-custom-properties": "^7.0.0",
-    "postcss-nested": "^3.0.0",
-    "rollup": "^0.59.4",
+    "autoprefixer": "^10.4.12",
+    "chai": "4.3.6",
+    "cypress": "^10.9.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "deepmerge": "^4.2.2",
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "http-server": "^14.1.1",
+    "mocha": "^10.0.0",
+    "postcss-custom-properties": "^12.1.9",
+    "postcss-nested": "^6.0.0",
+    "rollup": "^2.79.1",
     "rollup-plugin-commonjs": "^8.3.0",
-    "rollup-plugin-eslint": "^4.0.0",
+    "rollup-plugin-eslint": "^7.0.0",
     "rollup-plugin-json": "^2.3.0",
     "rollup-plugin-node-resolve": "^3.0.3",
-    "rollup-plugin-postcss": "^1.2.8",
+    "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-uglify-es": "^0.0.1",
-    "semantic-release": "^17.1.1",
-    "start-server-and-test": "^1.4.1",
-    "travis-deploy-once": "^5.0.1"
+    "semantic-release": "^19.0.5",
+    "start-server-and-test": "^1.14.0",
+    "travis-deploy-once": "^3.0.0"
   },
   "repository": {
     "type": "git",
@@ -66,9 +66,9 @@
   },
   "homepage": "https://capkpi.com/datatable",
   "dependencies": {
-    "hyperlist": "^1.0.0-beta",
-    "lodash": "^4.17.5",
-    "sortablejs": "^1.7.0"
+    "hyperlist": "^1.0.0",
+    "lodash": "^4.17.21",
+    "sortablejs": "^1.15.0"
   },
   "config": {
     "commitizen": {
