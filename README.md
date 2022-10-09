@@ -17,7 +17,7 @@
 
 ## Introduction
 
-capkpi DataTable is a simple, modern and interactive datatable library for displaying tabular data. Originally built for [ERPNext](https://github.com/capkpi/erpnext), it can be used to render large amount of rows without sacrificing performance and has the basic data grid features like inline editing and keyboard navigation. It does not require jQuery, unlike most data grids out there.
+capkpi DataTable is a simple, modern and interactive datatable library for displaying tabular data. Originally built for [ERP](https://github.com/capkpi/erp), it can be used to render large amount of rows without sacrificing performance and has the basic data grid features like inline editing and keyboard navigation. It does not require jQuery, unlike most data grids out there.
 
 ## Demo
 
